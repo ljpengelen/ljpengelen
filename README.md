@@ -2,10 +2,11 @@ Hi,
 
 I'm Luc, a full-stack software engineer from Voerendaal, the Netherlands.
 I started working as a freelance software engineer and scrum master under the company name cofx in 2022: https://cofx.nl.
+I'm not afraid of picking up any language or technology, but most of my experience is with Java, Clojure, and React-based front ends.
 
-I wrote some blog posts for one of my previous employers, which are available on their [tech blog](https://www.kabisa.nl/tech/). 
+I wrote some blog posts for Kabisa, one of my previous employers, which are available on their [tech blog](https://www.kabisa.nl/tech/). 
 Hopefully, I'll pick up blogging again in the near future.
-Visit https://blog.cofx.nl to see whether we've already reached the near future.
+Visit [blog.cofx.nl](https://blog.cofx.nl) to see whether we've already reached the near future.
 
 I'll use this personal README.md as an introduction to my most noteworthy open source work.
 This is GitHub, after all.
@@ -41,7 +42,16 @@ NPM package: https://www.npmjs.com/package/prefix-commit-message?activeTab=readm
 
 For Kabisa, I created a Cordova plugin for Signify's indoor positioning SDK.
 
-Repo: https://github.com/kabisa/indoor-positioning-cordova-plugin
+* Repo: https://github.com/kabisa/indoor-positioning-cordova-plugin
+
+# Python
+
+## Markdown to PDF
+
+I wrote a blogpost about [creating good looking PDF with Markdown and CSS](https://blog.cofx.nl/pdfs-from-markdown-and-css.html) after I stumbled upon the excelent [WeasyPrint](https://weasyprint.org/) by coincidence.
+The blogpost comes with a Python script that shows how this would work in practice.
+
+* Repo: https://blog.cofx.nl/pdfs-from-markdown-and-css.html
 
 # Various small contributions
 
