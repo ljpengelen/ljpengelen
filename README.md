@@ -13,7 +13,7 @@ This is GitHub, after all.
 
 # Clojure
 
-## [WIP] Clojure for beginners
+### Clojure for beginners
 
 Clojure for beginners is collection of assignments that should help you to get to know Clojure and ClojureScript.
 It is still a work in progress.
@@ -21,14 +21,14 @@ It is still a work in progress.
 * Repo: https://github.com/ljpengelen/clojure-for-beginners
 * On-line version: https://cfb.cofx.nl/
 
-## Hashing assets
+### Hashing assets
 
 I created a Leiningen plugin and a hook for shadow-cljs that actually do the same thing: adding a hash to the filename of JS and CSS files before including them in `index.html`.
 
 * Leiningen plugin: https://github.com/ljpengelen/lein-hash-assets
 * Shadow-cljs hook: https://github.com/ljpengelen/shadow-cljs-hash-assets-hook
 
-# Musical quiz
+### Musical quiz
 
 Top 10 is a musical quiz where the participants have to guess who is who based on their taste in music.
 The front end is a [re-frame](https://github.com/day8/re-frame) app written in ClojureScript.
@@ -37,7 +37,7 @@ The back end uses [Vert.x](https://vertx.io/) for Java.
 * Repo: https://github.com/ljpengelen/top10
 * On-line version: https://top10.cofx.nl
 
-# Wish lists
+### Wish lists
 
 Lijstje is a small app for creating and sharing wish lists.
 It's available in Dutch only at the moment.
@@ -50,7 +50,7 @@ Now, exactly the right number of wish list apps exist.
 
 # JavaScript
 
-## Prefix commit message
+### Prefix commit message
 
 Many projects that I worked on had the requirement that each commit message should contain a reference to a JIRA-ticket.
 Because typing those JIRA identifiers over and over again is no fun, I wrote a small script that takes the JIRA identifier from the name of the current branch.
@@ -58,7 +58,7 @@ Because typing those JIRA identifiers over and over again is no fun, I wrote a s
 Repo: https://github.com/ljpengelen/prefix-commit-message
 NPM package: https://www.npmjs.com/package/prefix-commit-message?activeTab=readme
 
-## Indoor positioning plugin for Cordova
+### Indoor positioning plugin for Cordova
 
 For Kabisa, I created a Cordova plugin for Signify's indoor positioning SDK.
 
@@ -66,7 +66,7 @@ For Kabisa, I created a Cordova plugin for Signify's indoor positioning SDK.
 
 # Python
 
-## Markdown to PDF
+### Markdown to PDF
 
 I wrote a blogpost about [creating good looking PDF with Markdown and CSS](https://blog.cofx.nl/pdfs-from-markdown-and-css.html) after I stumbled upon the excelent [WeasyPrint](https://weasyprint.org/) by coincidence.
 The blogpost comes with a Python script that shows how this would work in practice.
