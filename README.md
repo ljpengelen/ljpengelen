@@ -28,6 +28,26 @@ I created a Leiningen plugin and a hook for shadow-cljs that actually do the sam
 * Leiningen plugin: https://github.com/ljpengelen/lein-hash-assets
 * Shadow-cljs hook: https://github.com/ljpengelen/shadow-cljs-hash-assets-hook
 
+# Musical quiz
+
+Top 10 is a musical quiz where the participants have to guess who is who based on their taste in music.
+The front end is a [re-frame](https://github.com/day8/re-frame) app written in ClojureScript.
+The back end uses [Vert.x](https://vertx.io/) for Java.
+
+* Repo: https://github.com/ljpengelen/top10
+* On-line version: https://top10.cofx.nl
+
+# Wish lists
+
+Lijstje is a small app for creating and sharing wish lists.
+It's available in Dutch only at the moment.
+There were already a lot of apps with similar functionality before I started working on this one.
+I couldn't shake the thought that there should be one more.
+Now, exactly the right number of wish list apps exist.
+
+* Repo: https://github.com/ljpengelen/lijstje
+* On-line version: https://lijstje.cofx.nl
+
 # JavaScript
 
 ## Prefix commit message
