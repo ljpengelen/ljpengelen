@@ -55,8 +55,8 @@ Now, exactly the right number of wish list apps exist.
 Many projects that I worked on had the requirement that each commit message should contain a reference to a JIRA-ticket.
 Because typing those JIRA identifiers over and over again is no fun, I wrote a small script that takes the JIRA identifier from the name of the current branch.
 
-Repo: https://github.com/ljpengelen/prefix-commit-message
-NPM package: https://www.npmjs.com/package/prefix-commit-message?activeTab=readme
+* Repo: https://github.com/ljpengelen/prefix-commit-message
+* NPM package: https://www.npmjs.com/package/prefix-commit-message?activeTab=readme
 
 ### Indoor positioning plugin for Cordova
 
