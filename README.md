@@ -1,6 +1,8 @@
-Hi,
+![cofx logo](cofx-logo-vierkant.svg)
 
-I'm Luc, a full-stack software engineer from Voerendaal, the Netherlands.
+# Hi, I'm Luc
+
+I'm a full-stack software engineer from Voerendaal, the Netherlands.
 I started working as a freelance software engineer and scrum master under the company name cofx in 2022: https://cofx.nl.
 I'm not afraid of picking up any language or technology, but most of my experience is with Java, Clojure, and React-based front ends.
 
