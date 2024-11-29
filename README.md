@@ -25,7 +25,7 @@ It is still a work in progress.
 
 ### Hashing assets
 
-I created a Leiningen plugin and a hook for shadow-cljs that actually do the same thing: adding a hash to the filename of JS and CSS files before including them in `index.html`.
+I created a Leiningen plugin and a hook for shadow-cljs that have the same goal: adding a hash to the filename of JS and CSS files before including them in `index.html`.
 
 * Leiningen plugin: https://github.com/ljpengelen/lein-hash-assets
 * Shadow-cljs hook: https://github.com/ljpengelen/shadow-cljs-hash-assets-hook
