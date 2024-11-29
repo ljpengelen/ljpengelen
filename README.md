@@ -4,7 +4,7 @@
 
 I'm a full-stack software engineer from Voerendaal, the Netherlands.
 I started working as a freelance software engineer and scrum master under the company name cofx in 2022: https://cofx.nl.
-I'm not afraid of picking up any language or technology, but most of my experience is with Java, Clojure, and React-based front ends.
+I'm not afraid of picking up any language or technology, but most of my experience is with Java and React-based front ends.
 
 I wrote some blog posts for Kabisa, one of my previous employers, which are available on their [tech blog](https://www.kabisa.nl/tech/). 
 Hopefully, I'll pick up blogging again in the near future.
